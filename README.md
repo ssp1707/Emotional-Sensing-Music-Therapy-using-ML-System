@@ -161,6 +161,25 @@ if btn:
 ```
 ## Output:
 
+![WhatsApp Image 2023-06-22 at 09 42 00](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/f87a38c6-bbc6-48d3-ac8e-207918248f74)
+
+![WhatsApp Image 2023-06-22 at 09 41 59](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/e6b52b02-fafb-458b-87f2-6537747f9670)
+
+![WhatsApp Image 2023-06-22 at 09 42 00](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/bdab4d9e-1b0d-43dc-b56d-cd3c22ba6475)
+
+![WhatsApp Image 2023-06-22 at 09 42 00](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/8b918bc7-be59-4c35-9bc3-fa262b4a40b2)
+
+
+![WhatsApp Image 2023-06-22 at 09 42 01](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/a00ab8d9-d10d-451e-8df6-e9a4df245c14)
+
+![WhatsApp Image 2023-06-22 at 09 42 01](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/c2a74b3b-91b0-4da9-a3b8-64b09814e05f)
+
+![WhatsApp Image 2023-06-22 at 09 42 03](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/a3c789a0-a11d-4e28-bdbd-40e1c60810f6)
+
+![WhatsApp Image 2023-06-22 at 09 42 04](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/8c9e8c01-a144-4369-b43d-8a0e6abf09b2)
+
+![WhatsApp Image 2023-06-22 at 09 42 03](https://github.com/ssp1707/Emotional-Sensing-Music-Therapy-using-ML-System/assets/75234965/828984cc-5d42-4429-979b-e48963ababc2)
+
 ## Result:
 
 The Emotional Sensing Music Therapy project is a real-time application that captures users' emotions through their webcam and provides personalized song recommendations. By leveraging computer vision techniques and a pre-trained emotion classification model, the application accurately detects users' emotions and overlays them on the live video stream.
